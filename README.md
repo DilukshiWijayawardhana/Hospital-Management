@@ -1,6 +1,6 @@
 
-<p align="center" width="30%">
-    <img width="33%" src="https://i.pinimg.com/originals/80/f8/7d/80f87da58b4aa37bf32abb14fa77f42e.jpg">
+<p align="center" width="50%">
+    <img width="33%" src="https://wallpaperaccess.com/full/1282824.jpg">
 </p>
 <br>
 
