@@ -2,8 +2,8 @@
 <p align="center" width="50%">
     <img width="33%" src="https://wallpaperaccess.com/full/1282824.jpg">
 </p>
-<br>
 
+![GitHub followers](https://img.shields.io/github/followers/Followers?style=social)
 
 # Hospital-Management
 Python Project<br>
