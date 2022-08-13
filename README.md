@@ -3,6 +3,8 @@
     <img width="33%" src="https://wallpaperaccess.com/full/1282824.jpg">
 </p>
 
+
+![Chocolatey](https://img.shields.io/chocolatey/dt/downloads)
 ![GitHub followers](https://img.shields.io/github/followers/Followers?style=social)
 
 # Hospital-Management
